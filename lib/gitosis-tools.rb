@@ -4,7 +4,6 @@ require "gitosis-tools/group"
 require "gitosis-tools/member"
 require "gitosis-tools/repository"
 require 'ruby-git'
-require 'inifile'
 
 module Gitosis
 
